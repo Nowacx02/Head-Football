@@ -178,7 +178,7 @@ int main()
                 cin>> g[i];
 
              //Losowanie
-             /*system("cls");
+             system("cls");
              cout<<"Losowanie..."<<endl;
              Sleep(500);
              system("cls");
@@ -187,7 +187,7 @@ int main()
              system("cls");
              cout<<"Losowanie."<<endl;
              Sleep(500);
-             system("cls");*/
+             system("cls");
 
              int wyl[8];
              srand(time(NULL));
@@ -390,10 +390,8 @@ int main()
 
                 cout<<endl;
                 cout<<"ZWYCIEZCA: "<<g[finale]<<endl;
-
-
-
-
+           
+                getchar(); getchar();
 
 
                      }
