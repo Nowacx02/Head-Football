@@ -390,8 +390,10 @@ int main()
 
                 cout<<endl;
                 cout<<"ZWYCIEZCA: "<<g[finale]<<endl;
-           
+
                 getchar(); getchar();
+
+
 
 
                      }
